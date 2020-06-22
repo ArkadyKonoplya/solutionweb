@@ -1,0 +1,21 @@
+[02-Dec-2019 14:20:47 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('log')
+#4 /home/ in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-Dec-2019 14:21:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('log')
+#4 /home/ in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
+[02-Dec-2019 14:21:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class log does not exist in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php:741
+Stack trace:
+#0 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(741): ReflectionClass->__construct('log')
+#1 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('log', Array)
+#2 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make('log', Array)
+#3 /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php(842): Illuminate\Foundation\Application->make('log')
+#4 /home/ in /home/qbul1xumz43e/public_html/dev/public/test1.playthriftgift.com/solutionweb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 741
